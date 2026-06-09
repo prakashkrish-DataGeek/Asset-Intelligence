@@ -7,7 +7,7 @@
 
 ## Executive Summary
 
-Legacy operational data is not useless — it is **trapped value**. This pilot demonstrates how a Chief AI Officer can modernize industrial asset operations by connecting **legacy unstructured engineering knowledge** with **modern operational telemetry** through a clean, protocol-governed AI boundary.
+Legacy operational data is **trapped value**. This pilot demonstrates how a AI can modernize industrial asset operations by connecting **legacy unstructured engineering knowledge** with **modern operational telemetry** through a clean, protocol-governed AI boundary.
 
 When the system detects a pressure anomaly on **WELL-202B**, the AI agent:
 1. Inspects real-time telemetry from the operational historian
