@@ -1,0 +1,19 @@
+PLANT-001 TURNAROUND REPORT — 2023
+==================================
+Turnaround executed: 15 Mar – 02 Apr 2023
+
+Scope:
+- Reactor R-101 catalyst change-out
+- Furnace F-101 tube inspection (UT scan)
+- Compressor C-101 overhaul
+
+Findings:
+- Reactor tubes: wall thinning within acceptable limits (< 12%)
+- Furnace: 3 tubes flagged for replacement; completed
+- Compressor: bearings replaced; alignment within 0.002"
+
+Post-TA baseline performance:
+- Throughput: 105% of nameplate
+- Energy intensity: 0.42 GJ/MT (improved from 0.45)
+
+No operational restrictions post-TA.

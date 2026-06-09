@@ -1,0 +1,16 @@
+OPERATIONS MEMO #2019-07-OP-12
+TO: All Field Supervisors
+FROM: Chief Engineer, Production Operations
+RE: Pressure Management Protocol Update
+
+Effective immediately, all well assets with historical integrity flags must adhere 
+to the following pressure management protocol:
+
+1. Sustained pressure below 1,100 PSI requires immediate well shutdown and 
+   integrity verification before restart.
+2. Pressure excursions between 1,100–1,200 PSI require enhanced monitoring 
+   (15-minute SCADA polling) and notification to the Integrity Team.
+3. Assets with micro-fracture history (WELL-202B, WELL-101A pre-2017) must 
+   maintain pressure above 1,150 PSI during normal operations.
+
+This memo supersedes OPS-MEMO-2018-11.

@@ -1,0 +1,34 @@
+ASSET: WELL-202B
+DOCUMENT TYPE: Historical Integrity Assessment
+DATE: 2018-03-14
+AUTHOR: Sr. Field Engineer, Integrity Division
+
+EXECUTIVE SUMMARY:
+WELL-202B has a known history of micro-fracturing in the lower shoe layer, first identified 
+during the 2016 caliper run and confirmed by the 2018 multi-finger logging campaign. 
+The micro-fracture network is localized between 4,200–4,350 ft MD and is believed to be 
+stress-induced following the 2015 frac-pack campaign.
+
+OPERATIONAL RISK STATEMENT:
+Risk increases materially when bottom-hole pressure drops below 1100 PSI. At these 
+pressure levels, the effective stress on the shoe layer rises, propagating existing 
+micro-fractures and creating potential leak paths to the shallow aquifer zone (Unit 3).
+
+HISTORICAL MITIGATION RECORD:
+The historically successful mitigation was a specific chemical flush and integrity 
+verification workflow:
+  1. Depressurize to 800 PSI and hold for 30 minutes to stabilize fracture geometry.
+  2. Inject corrosion-inhibited acid blend (15% HCl + inhibitor package INH-202B) at 
+     2 bbl/min for 45 minutes.
+  3. Displace with nitrogen-brine mix to 1,200 PSI.
+  4. Run caliper and ultrasonic thickness verification log.
+  5. Hold pressure at 1,300 PSI for 4 hours; if leak-off < 5 PSI/hr, clear for return 
+     to production.
+
+This workflow was executed in July 2019 with positive results. Post-treatment integrity 
+held at 1,200 PSI with zero leak-off over the 4-hour hold period.
+
+RECOMMENDATION:
+If future telemetry indicates sustained pressure below 1100 PSI, repeat the chemical 
+flush and integrity verification workflow before returning the asset to production.
+Do NOT restart without integrity verification.
