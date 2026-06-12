@@ -1,6 +1,6 @@
 # 🏭 Asset Intelligence Copilot
 
-> **Chief AI Officer Pilot — Industrial AI Decision Support Console**  
+> **AI Pilot — Industrial AI Decision Support Console**  
 > Model Context Protocol (MCP) for Large-Scale Asset Operations
 
 ---
